@@ -1,0 +1,13 @@
+<config>
+  <serverAddress val="elements.schools.nc.gov" />
+  <clientID val="" />
+  <installID val="" />
+  <formType val="PlainPaper" />
+  <daysToExpireCsv val="180" />
+  <debug val="False" />
+  <useHttps val="True" />
+  <cornerShift val="3" />
+  <cornerSearchArea val="3" />
+  <thresholdIncrease val="15" />
+	<defaultScanner val="" />
+</config>

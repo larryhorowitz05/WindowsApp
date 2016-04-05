@@ -1,0 +1,27 @@
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.csproj.ResolveComReference.cache
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmConfig.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmConnect.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmMain.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmUpload.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.Properties.Resources.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.VersaITInputBox.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.csproj.GenerateResource.Cache
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\Data\elementsppsconfig.xml
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\Data\formNumber.xml
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\AxInterop.GdPicturePro5.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\Interop.IObjectSafetyTLB.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\Interop.GdPicturePro5.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.PPS.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmDialogPreview.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmScorePreview.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\IrisSkin2.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmDialog.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.frmImport.resources
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\Interop.GdPicturePro5.dll
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\ElementsPPS.csprojResolveAssemblyReference.cache
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\G2D Scanning 5.0.exe.config
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\G2D Scanning 5.0.exe
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\bin\x86\Debug\G2D Scanning 5.0.pdb
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\G2D Scanning 5.0.exe
+E:\Amirotech\Application\Thinkgate\Responders and Scanners\Elements PPS\ElementsPPS\ElementsPPS\obj\x86\Debug\G2D Scanning 5.0.pdb

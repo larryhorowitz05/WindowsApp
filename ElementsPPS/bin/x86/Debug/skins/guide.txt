@@ -1,0 +1,10 @@
+1. first add this dll to reference of your project.
+2. .ssk files are your skin files just copy to App.path.
+3.goto toolbox -> Rigthclick Anywhere on toolbox-> Choose items CMenu -> Click browse For that Skin dll -> Choose your desired Dll Named IrisSkin2.dll from stored path.
+
+ It  will add a control to dot net controls list. just drag and use it.after draging goto it's
+ property and set serial No. niUrXnbJZN9wCxe870k4wGZHiJuCvidGdgnGc0ohnbmT3Hq6GiXtcg==
+
+4. LoadEvent of Mdi Form:----
+
+ Me.SkinEngine1.SkinFile = Application.StartupPath + skins\DiamondBlue.ssk"

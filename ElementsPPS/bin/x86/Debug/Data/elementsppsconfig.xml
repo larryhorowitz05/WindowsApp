@@ -1,0 +1,14 @@
+<config>
+  <serverAddress val="tgscan.dadeschools.net" />
+  <clientID val="FLMiamiDade" />
+  <installID val="" />
+  <formType val="PlainPaper" />
+  <daysToExpireCsv val="180" />
+  <debug val="False" />
+  <useHttps val="False" />
+  <cornerShift val="3" />
+  <cornerSearchArea val="3" />
+  <thresholdIncrease val="15" />
+  <defaultScanner val="" />
+  <useSSO val="False" />
+</config>

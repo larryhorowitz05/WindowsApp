@@ -1,0 +1,54 @@
+<template>
+	<itemDef name="Alignment">
+		<ObjWidth val="38" />
+		<ObjHeight val="38" />
+		<ObjStartX val="0" />
+		<ObjStartY val="0" />
+		<ObjShiftX val="1088" />
+		<ObjShiftY val="1444" />
+		<ObjColumns val="2" />
+		<ObjRows val="2" />
+		<ItemWidth val="38" />
+		<ItemHeight val="38" />
+		<ItemStartX val="0" />
+		<ItemStartY val="0" />
+		<ItemShiftX val="0" />
+		<ItemShiftY val="0" />	
+		<ItemCount val="1" /> 
+	</itemDef>
+	<itemDef name="FormNumber">
+		<ObjWidth val="30" />
+		<ObjHeight val="20" />
+		<ObjStartX val="300" />
+		<ObjStartY val="0" />
+		<ObjShiftX val="50" />
+		<ObjShiftY val="0" />
+		<ObjColumns val="6" />
+		<ObjRows val="1" />
+		<ItemWidth val="30" />
+		<ItemHeight val="20" />
+		<ItemStartX val="0" />
+		<ItemStartY val="0" />
+		<ItemShiftX val="0" />
+		<ItemShiftY val="0" /> 	
+		<ItemCount val="1" />
+	</itemDef>
+	<itemDef name="HALOAlignment">
+		<ObjWidth val="24" />
+		<ObjHeight val="14" />
+		<ObjStartX testval="569" val="572" />
+		<ObjStartY testval="-10" val="0" />
+		<ObjShiftX val="96" />
+		<ObjShiftY val="0" />
+		<ObjColumns val="2" />
+		<ObjRows val="1" />
+		<ItemWidth testval="26" val="24" />
+		<ItemHeight testval="19" val="14" />
+		<ItemStartX val="0" />
+		<ItemStartY val="0" />
+		<ItemShiftX val="0" />
+		<ItemShiftY val="0" />	
+		<ItemCount val="1" /> 
+		<Threshold val="30" />
+	</itemDef>
+</template>
